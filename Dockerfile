@@ -1,5 +1,5 @@
 FROM debian:8.6
-MAINTAINER Ben Hainline <ben.hainline@infusionsoft.com>
+MAINTAINER Ben Hainline <benhainline@gmail.com>
 
 # reduce footprint of package installs
 COPY minify /
